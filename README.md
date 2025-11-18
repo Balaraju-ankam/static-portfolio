@@ -111,12 +111,3 @@ static-portfolio/
     }
   ]
 }
-📌 Future Enhancements (DevOps Focus)
-
-Add CloudFront + HTTPS
-
-Add GitHub Actions CI/CD for auto-deployment
-
-Add Terraform IaC
-
-Add monitoring logs in CloudWatch
